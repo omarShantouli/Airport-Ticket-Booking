@@ -1,0 +1,15 @@
+D:\vs\Airport Ticket Booking\bin\Debug\net6.0\Airport Ticket Booking.exe
+D:\vs\Airport Ticket Booking\bin\Debug\net6.0\Airport Ticket Booking.deps.json
+D:\vs\Airport Ticket Booking\bin\Debug\net6.0\Airport Ticket Booking.runtimeconfig.json
+D:\vs\Airport Ticket Booking\bin\Debug\net6.0\Airport Ticket Booking.dll
+D:\vs\Airport Ticket Booking\bin\Debug\net6.0\Airport Ticket Booking.pdb
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.csproj.AssemblyReference.cache
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.AssemblyInfoInputs.cache
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.AssemblyInfo.cs
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.csproj.CoreCompileInputs.cache
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.dll
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\refint\Airport Ticket Booking.dll
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.pdb
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\Airport Ticket Booking.genruntimeconfig.cache
+D:\vs\Airport Ticket Booking\obj\Debug\net6.0\ref\Airport Ticket Booking.dll
